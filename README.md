@@ -1,5 +1,3 @@
-# iphegde.github.io
-
 # 👋 Hi, I'm Prasanna Hegde!
 
 Welcome to my project portfolio profile! I'm a passionate **Generative AI Engineer** with a deep interest in **Large Language Models (LLMs)**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Machine Learning (ML)**. My primary programming language is **Python**, and I enjoy working on innovative projects that push the boundaries of AI.
