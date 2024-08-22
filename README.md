@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Prasanna Hegde!
 
-Welcome to my project portfolio profile! I'm a passionate **Generative AI Engineer** with a deep interest in **Large Language Models (LLMs)**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Machine Learning (ML)**. My primary programming language is **Python**, and I enjoy working on innovative projects that push the boundaries of AI.
-
 Welcome to my project portfolio profile! I'm a dedicated professional with extensive experience in the SAP domain, including proficiency in **SAP S/4HANA**, **SAP Fiori** and **SAP Business Technology Platform (SAP BTP)**, as well as various other ERP solutions. My work primarily revolves around optimizing and integrating enterprise-level applications to enhance business processes and drive digital transformation.
 
 In addition to my deep expertise in SAP, I am also a passionate Generative AI Engineer with a strong interest in **Large Language Models (LLMs)**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Machine Learning (ML)**. My primary programming language is **Python**. I enjoy working on innovative projects that push the boundaries of AI while leveraging my comprehensive knowledge of SAP systems.
