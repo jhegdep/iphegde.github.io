@@ -32,9 +32,9 @@ Here are a few projects that showcase my expertise:
 
 Feel free to connect with me on LinkedIn or check out my work here on GitHub. I'm always open to discussing new ideas, collaborations, or potential job opportunities!
 
-- **LinkedIn:** [www.linkedin.com/in/iphegde](#)
-- **GitHub:**   [https://github.com/jhegdep](#)
-- **Email:**    [prasanna_hegde@outlook.com](#) 
+- **LinkedIn:** [www.linkedin.com/in/iphegde](#www.linkedin.com/in/iphegde)
+- **GitHub:**   [https://github.com/jhegdep](#https://github.com/jhegdep)
+- **Email:**    [prasanna_hegde@outlook.com](#mailto:prasanna_hegde@outlook.com) 
 
 ## 📚 Blog
 
