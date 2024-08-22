@@ -50,4 +50,4 @@ I occasionally write about AI, ML, and other tech topics on my blog. Check it ou
 
 ---
 
-Thanks for visiting my GitHub Pages profile! Let's build the future of AI together. 🌟
+Thanks for visiting my Profile! Let's build the future of AI together. 🌟
