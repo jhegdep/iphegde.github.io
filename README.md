@@ -34,7 +34,7 @@ Feel free to connect with me on LinkedIn or check out my work here on GitHub. I'
 
 - **LinkedIn:** [www.linkedin.com/in/iphegde](#)
 - **GitHub:** [Your GitHub Profile](#)
-- **Email:** prasanna_hegde@outlook.com](mailto:prasanna_hegde@outlook.com)
+- **Email:** prasanna_hegde@outlook.com(#)
 
 ## 📚 Blog
 
