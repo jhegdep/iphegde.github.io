@@ -13,6 +13,9 @@ With a strong background in AI and a focus on generative models, I am dedicated 
 
 ## 🔧 Skills
 
+- **SAP S/4 Hana:** Experienced with SAP's enterprise resource planning suite for real-time business operations.
+- **SAP Fiori:** Skilled in developing user-friendly applications using SAP Fiori design principles.
+- **SAP BTP (Business Technology Platform):** Proficient with SAP's integrated offering that includes database management systems as well as analytics capabilities."
 - **Large Language Models (LLMs):** Expertise in building and fine-tuning large-scale language models for a variety of applications.
 - **Deep Learning:** Proficient in designing and implementing deep neural networks using frameworks like TensorFlow and PyTorch.
 - **Natural Language Processing (NLP):** Skilled in text processing, sentiment analysis, language translation, and other NLP tasks.
@@ -37,9 +40,9 @@ Here are a few projects that showcase my expertise:
 
 Feel free to connect with me on LinkedIn or check out my work here on GitHub. I'm always open to discussing new ideas, collaborations, or potential job opportunities!
 
-- **LinkedIn:** [www.linkedin.com/in/iphegde](#www.linkedin.com/in/iphegde)
-- **GitHub:**   [https://github.com/jhegdep](#https://github.com/jhegdep)
-- **Email:**    [prasanna_hegde@outlook.com](#mailto:prasanna_hegde@outlook.com)
+- **LinkedIn:** [www.linkedin.com/in/jhegdep](#)
+- **GitHub:**   [https://github.com/jhegdep](#)
+- **Email:**    [prasanna_hegde@outlook.com](#)
 
 ## 📚 Blog
 
