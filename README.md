@@ -38,15 +38,15 @@ Here are a few projects that showcase my expertise:
 
 Feel free to connect with me on LinkedIn or check out my work here on GitHub. I'm always open to discussing new ideas, collaborations, or potential job opportunities!
 
-- **LinkedIn:** [www.linkedin.com/in/jhegdep](www.linkedin.com/in/jhegdep)
-- **GitHub:**   [https://github.com/jhegdep](#)
+- **LinkedIn:** [www.linkedin.com/in/iphegde](#)
+- **GitHub:**   [https://github.com/iphegde](#)
 - **Email:**    [prasanna_hegde@outlook.com](#)
 
 ## 📚 Blog
 
 I occasionally write about AI, ML, and other tech topics on my blog. Check it out for insights, tutorials, and more!
 
-- **Blog:** [Your Blog URL](#)
+- **Blog:** [www.iphegde.com](#)
 
 ---
 
